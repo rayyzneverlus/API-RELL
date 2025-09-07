@@ -1,11 +1,11 @@
 // YTTA
 
 //settings
-global.creator = 'DhaniOfficiall'
-global.listkey = ["apikeynya","turusek"]
+global.creator = 'FarelDev'
+global.listkey = ["FarelAPI"]
 
 //isi agar fitur fitur bisa di gunakan.
-global.lolkey = 'ISI_PUNYA_LOLHUMAN' // Dapatkan di https://api.lolhuman.xyz
+global.lolkey = 'd9ab8410b575fa6d18684a53' // Dapatkan di https://api.lolhuman.xyz
 global.botkey = 'Admin' // Dapatkan di https://api.botcahx.biz.id
 
 global.loghandler = {
