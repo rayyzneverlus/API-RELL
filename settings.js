@@ -5,7 +5,7 @@ global.creator = 'FarelDev'
 global.listkey = ["FarelAPI"]
 
 //isi agar fitur fitur bisa di gunakan.
-global.lolkey = 'd9ab8410b575fa6d18684a53' // Dapatkan di https://api.lolhuman.xyz
+global.lolkey = 'admin' // Dapatkan di https://api.lolhuman.xyz
 global.botkey = 'Admin' // Dapatkan di https://api.botcahx.biz.id
 
 global.loghandler = {
